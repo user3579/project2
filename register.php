@@ -118,6 +118,7 @@ $number = "/^[0-9]+$/";
               <div class='alert alert-success'>
               <a href='#' class='close' data-dismiss='alert' aria-label='close'>&times;</a>
               <b>You are Register successfully...!</b>
+              <a href='login_form.php' class='btn btn-lg btn-primary'>Login</a>
               </div>
               ";
             }

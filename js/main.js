@@ -87,6 +87,7 @@ $(document).ready(function(){
           data      : $("form").serialize(),
           success   : function(data){
             $("#signup_msg").html(data);
+            
           }
         })
       })
